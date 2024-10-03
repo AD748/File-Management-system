@@ -1,8 +1,6 @@
-# React Js Firebase FIle Management System [V1.0] 
+# React Js Firebase FIle Management System
 
-This is the file management system made with reactjs and frebase. where user cn upload files, create folders and sub folders, and also even user can create file and he/she can edit and save created file.
-
-**This is the upgraded version from CRA to VITE, React 18 and Firebase 10 (Tutorial of upgradation coming soon)**
+This is a file management system made with reactjs and firebase, where a user can upload files, create folders and sub folders. User also can create file and edit them and save created file.
 
 <a href="https://react-firebase-file-management-system.vercel.app/">Demo Link Vercel</a> 
 
